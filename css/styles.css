@@ -131,6 +131,9 @@ button {
 }
 
 .hero {
+  padding-top: 200px;
+  padding-bottom: 200px;
+
   text-align: center;
 }
 
