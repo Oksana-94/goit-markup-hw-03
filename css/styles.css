@@ -95,6 +95,10 @@ body {
   padding-bottom: 32px;
 }
 
+.line {
+  border-bottom: 1px solid #ececec;
+}
+
 button {
   font-family: inherit;
   font-size: inherit;
@@ -340,6 +344,7 @@ ul {
 .title-works {
   margin-top: 20px;
   margin-bottom: 4px;
+  padding-left: 24px;
 
   font-weight: 700;
   font-size: 18px;
@@ -347,6 +352,9 @@ ul {
 }
 
 .paragraph-works {
+  padding-left: 24px;
+  padding-bottom: 20px;
+
   color: var(--paragraph-text-color);
 
   font-weight: 400;
